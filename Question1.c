@@ -1,6 +1,11 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
+    // Group NO : 4
+    // Assignment : 1
+
+
+
     // d = slit distance 
     // theta = diffraction angle (in degree)
     // m = order of diffraction

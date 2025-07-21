@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
+    
+     // Group NO : 4
+    // Assignment : 1
 
     // m1 = bright order for green 
     // m2 = bright order for red
